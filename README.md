@@ -5,6 +5,13 @@ REACT JAVASCRIPT JSON-SERVER CSS HTML
 Simple overview of use/purpose.
 
 ## Description
+![image](https://user-images.githubusercontent.com/60112459/140647176-4e37bd46-2694-40ea-9b82-06dbae4a8bbf.png)
+
+![image](https://user-images.githubusercontent.com/60112459/140647151-e2ab2a82-4778-42dd-8f0d-18795fa18288.png)
+
+![image](https://user-images.githubusercontent.com/60112459/140647513-3f4a9cec-ee8b-4e01-a0f3-7d942cda8e8d.png)
+
+
 
 An in-depth paragraph about your project and overview of use.
 
